@@ -1,0 +1,220 @@
+#: locale=es
+
+## Acción
+
+### URL
+LinkBehaviour_9AA678A3_FD84_F83F_41A3_070B9A7CDE39.source = http://wa.me/4421990461
+LinkBehaviour_D10963D5_7784_8696_41D7_B75B421D26A1.source = http://wa.me/4421990461
+LinkBehaviour_D690D265_7784_81B6_41C1_F0EFE6163D2A.source = https://arcaterra.mx/
+LinkBehaviour_9AA7D8A2_FD84_F839_41C6_681B13AD9A2F.source = https://arcaterra.mx/
+LinkBehaviour_55FC1B4E_7505_CF60_41C9_AD2A3BD0289D.source = https://www.facebook.com/AdCityMx/?locale=es_LA
+LinkBehaviour_54F24986_7506_4BE0_41D3_C62921F38AF7.source = https://www.facebook.com/AdCityMx/?locale=es_LA
+PopupWebFrameBehaviour_B5128D5F_FD84_7807_41ED_F01F94FE6885.url = https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d277.0032774615568!2d-100.44527883591493!3d20.532791695221047!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses!2smx!4v1790993542974!5m2!1ses!2smx
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d284.7386451713252!2d-100.46814342576651!3d20.736485348195654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses!2smx!4v1790102279085!5m2!1ses!2smx
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d391.74161093061474!2d-100.44520049597443!3d20.532862328801315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses!2smx!4v1791062024544!5m2!1ses!2smx
+PopupWebFrameBehaviour_CF7B00CA_FE84_6809_41D3_224BB15BA5DC.url = https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d465.8621596408217!2d-100.44518781825722!3d20.532780668735715!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses!2smx!4v1790991578129!5m2!1ses!2smx
+LinkBehaviour_6CA79B0F_526E_035C_41CE_ECD1B0339D3B.source = inmersia360.com
+LinkBehaviour_113DC555_526E_07CC_41C9_F7D2EC33DFC0.source = inmersia360.com
+LinkBehaviour_113DF556_526E_07CC_41B8_96F0690DEA9D.source = inmersia360.com
+LinkBehaviour_127AF366_526E_03CC_41C1_7C29FD5735E2.source = inmersia360.com
+
+## Hotspot
+
+### Texto
+HotspotPanoramaOverlayTextImage_EDA124CE_FE9C_6809_41ED_0B7D2301DB17.text = Hacia Celaya
+HotspotPanoramaOverlayTextImage_A4F822B3_FDBC_281F_41C8_630C96954F4B.text = Hacia Celaya
+HotspotPanoramaOverlayTextImage_EB6C4590_FE84_2818_41A5_CAF8CAE7D4FE.text = Hacia Celaya
+HotspotPanoramaOverlayTextImage_A2F9A1E3_FDBC_683F_41BF_EA0272305494.text = Hacia Celaya
+HotspotPanoramaOverlayTextImage_A2F951E3_FDBC_683F_41EF_0589EE8D1268.text = Hacia Querétaro
+HotspotPanoramaOverlayTextImage_A53F1F9B_FDBC_180F_41E8_D1DB449409AB.text = Hacia Querétaro
+HotspotPanoramaOverlayTextImage_EB644307_FE8C_29F8_41E7_9B7E920C03A7.text = Hacia Querétaro
+HotspotPanoramaOverlayTextImage_EB09CA58_FE84_1809_41E1_1CCD3153F771.text = Hacia Querétaro
+HotspotPanoramaOverlayTextImage_EB8BF579_FE84_280B_41D2_C59E559D8D2B.text = Prolongación Constituyentes
+HotspotPanoramaOverlayTextImage_A5C77664_FDBC_E838_41BB_4561C13AD65C.text = Prolongación Constituyentes
+HotspotPanoramaOverlayTextImage_ECC8873D_FE9C_2808_41EF_5D8ECBCE7309.text = Prolongación Constituyentes
+
+## Media
+
+### Audio
+audiores_BCD69965_FD84_183B_41E2_D5D51E24FDBD.url = media/audio_BF51A5B8_FD85_E808_41EA_E231A8E4B9BD_es.mp3
+
+### Imágen
+imlevel_9350DE48_FD85_F809_41D7_939AF731F8A0.url = media/panorama_EF0C2901_FE8C_39FB_41DB_BC375BF518A1_HS_dc11oozo_es.webp
+imlevel_9357A098_FD85_E809_418D_EB9EBABB7ACA.url = media/panorama_EF0C2901_FE8C_39FB_41DB_BC375BF518A1_HS_ewutblac_es.webp
+imlevel_91D7104E_FD85_E808_41EC_6B2E63C9485E.url = media/panorama_EF0C2901_FE8C_39FB_41DB_BC375BF518A1_HS_ja30hivt_es.webp
+imlevel_935C9D3A_FD85_F809_41E9_FD2CCBC0940A.url = media/panorama_EF0C2901_FE8C_39FB_41DB_BC375BF518A1_HS_km3mw5ix_es.webp
+imlevel_935C5CF1_FD85_F81B_41DD_2F602A06C458.url = media/panorama_EF0C2901_FE8C_39FB_41DB_BC375BF518A1_HS_qz7473qw_es.webp
+imlevel_93533E96_FD85_F818_41C0_0983FBAED8DF.url = media/panorama_EF0C2901_FE8C_39FB_41DB_BC375BF518A1_HS_rsgjjd9o_es.webp
+imlevel_93648A0F_FD85_F808_41D8_56B23BA13F2F.url = media/panorama_F33722FB_FD84_55FD_41E9_58A1B5D19C8C_HS_2rg7jhx6_es.webp
+imlevel_935B2C68_FD85_F809_41B3_83645D1DBC25.url = media/panorama_F33722FB_FD84_55FD_41E9_58A1B5D19C8C_HS_atxms6er_es.webp
+imlevel_935B9CAC_FD85_F809_41E7_51C1F22990C3.url = media/panorama_F33722FB_FD84_55FD_41E9_58A1B5D19C8C_HS_ba5u721u_es.webp
+imlevel_91D93BD9_FD85_F80B_41D8_D8A3556BB5E3.url = media/panorama_F33722FB_FD84_55FD_41E9_58A1B5D19C8C_HS_jc9g9ip8_es.webp
+imlevel_93669C20_FD85_F839_41E5_EF22CB7EF448.url = media/panorama_F33722FB_FD84_55FD_41E9_58A1B5D19C8C_HS_qloi4kex_es.webp
+imlevel_17E3F246_03A4_50AC_4187_182AE9725220.url = media/popup_E4282BF6_FE84_7819_41D7_FD472D099666_es_0_0.webp
+imlevel_17E38246_03A4_50AC_417F_AD3EA0730348.url = media/popup_E4282BF6_FE84_7819_41D7_FD472D099666_es_0_1.webp
+imlevel_17E6119F_03A4_53DD_4170_781A81587168.url = media/popup_E4386068_FEBC_2808_41EF_A35F321D3558_es_0_0.webp
+imlevel_17E6219F_03A4_53DD_418B_46CBC002AF4C.url = media/popup_E4386068_FEBC_2808_41EF_A35F321D3558_es_0_1.webp
+imlevel_179D303B_03A4_50E5_4160_815B1B225BD6.url = media/popup_E5568013_FEBC_281F_41E7_076D1BE4AD5E_es_0_0.webp
+imlevel_179CC03B_03A4_50E5_4176_B35AA6540021.url = media/popup_E5568013_FEBC_281F_41E7_076D1BE4AD5E_es_0_1.webp
+imlevel_179940E8_03A4_5163_411F_07866C6B2F40.url = media/popup_E58432C9_FEBC_680B_41D4_E50152DC92C9_es_0_0.webp
+imlevel_179950E8_03A4_5163_412D_FC5EBE04EF80.url = media/popup_E58432C9_FEBC_680B_41D4_E50152DC92C9_es_0_1.webp
+imlevel_0EDD31A8_03C9_66A7_417E_277FBB49E09C.url = media/zoomImage_B98DB3A0_069D_E839_4180_1A156FC8A258_es_0_0.jpg
+imlevel_0EDF11A8_03C9_66A7_418C_CAF99F8446D6.url = media/zoomImage_B98DB3A0_069D_E839_4180_1A156FC8A258_es_0_1.jpg
+imlevel_0EDC319B_03C9_6699_415B_7060B5984484.url = media/zoomImage_CF45748F_FE84_6807_41E5_751B6D89A9BF_es_0_0.jpg
+imlevel_0ED2C19B_03C9_6699_418C_63966B4F593B.url = media/zoomImage_CF45748F_FE84_6807_41E5_751B6D89A9BF_es_0_1.jpg
+
+### Popup Imágen
+
+### Subtítulos de Audio
+
+### Subtítulos de Video
+
+### Título
+video_D26FB6C1_FE9C_2878_41D5_4EC18BF19078.label = Video Este Oeste
+video_D39083F8_FE9C_2809_41AD_E1FC26614513.label = Video Este Oeste 1
+video_D39045DB_FE9C_680F_41EB_3514D300B266.label = Video Este Oeste 3
+video_D2C8FF5D_FE9F_F808_41D0_43AA31A4EBA0.label = Video Oeste-Este
+panorama_ED619463_FE8C_283F_41DD_8C4F81F77D8A.label = Vista Este-Oeste
+panorama_EF3C50CD_FE84_680B_41E8_EEE98513392D.label = Vista Este-Oeste
+panorama_F33722FB_FD84_55FD_41E9_58A1B5D19C8C.label = Vista Oeste-Este
+panorama_EF0C2901_FE8C_39FB_41DB_BC375BF518A1.label = Vista Oeste-Este
+video_D3907626_FE9C_2839_41C6_B8ACD1E6A94F.label = video 360
+
+### Video
+videolevel_0E8E845A_03CB_2D9B_4175_DFF6E98D5FA0.url = media/video_D26FB6C1_FE9C_2878_41D5_4EC18BF19078_es.mp4
+videolevel_0E8E845A_03CB_2D9B_4175_DFF6E98D5FA0.posterURL = media/video_D26FB6C1_FE9C_2878_41D5_4EC18BF19078_poster_es.jpg
+videolevel_0EEAF521_03CB_2FA9_417F_26B3548F572F.url = media/video_D2C8FF5D_FE9F_F808_41D0_43AA31A4EBA0_es.mp4
+videolevel_0EEAF521_03CB_2FA9_417F_26B3548F572F.posterURL = media/video_D2C8FF5D_FE9F_F808_41D0_43AA31A4EBA0_poster_es.jpg
+videolevel_0EAB7C4F_03CB_3DFA_4181_6547804E0237.url = media/video_D39045DB_FE9C_680F_41EB_3514D300B266_es.mp4
+videolevel_0EAB7C4F_03CB_3DFA_4181_6547804E0237.posterURL = media/video_D39045DB_FE9C_680F_41EB_3514D300B266_poster_es.jpg
+videolevel_0E06BEDB_03C9_1A99_4170_E0AAA5E78362.url = media/video_D3907626_FE9C_2839_41C6_B8ACD1E6A94F_es.mp4
+videolevel_0E06BEDB_03C9_1A99_4170_E0AAA5E78362.posterURL = media/video_D3907626_FE9C_2839_41C6_B8ACD1E6A94F_poster_es.jpg
+videolevel_0E9DC077_03CB_65A9_4177_F8B6A8813807.url = media/video_D39083F8_FE9C_2809_41AD_E1FC26614513_es.mp4
+videolevel_0E9DC077_03CB_65A9_4177_F8B6A8813807.posterURL = media/video_D39083F8_FE9C_2809_41AD_E1FC26614513_poster_es.jpg
+
+## Skin
+
+### Botón
+Button_E233947E_FEBC_6808_41E5_C28DDF9E0040.label = Atrás
+Button_E230947E_FEBC_6808_41E4_67B326B9596F.label = BACK
+Button_E230847E_FEBC_6808_41E9_4E7DC17A8EA6.label = BACK
+Button_E230A47F_FEBC_6807_41D0_828474E6C908.label = BACK
+Button_E231447F_FEBC_6807_41AD_9DD140C9DBC7.label = BACK
+Button_E231747F_FEBC_6807_41E4_52A01914C442.label = BACK
+Button_E233F47E_FEBC_6808_41C6_7BA5BC9AA547.label = CONTACTO >
+Button_BB3EE209_0685_E80A_4185_72BE2CDF6519.label = Contacto
+Button_E230647E_FEBC_6808_41C3_AE624058A055.label = FICHA TÉCNICA >
+Button_BB3EC209_0685_E80B_4189_D451812DCEBC.label = Ficha
+Button_E230D47E_FEBC_6808_41EE_5FC007CACA2C.label = Garden
+Button_D10AB3D4_7784_8696_41D6_8307BE93D0AA.label = INFORMES
+Button_D10AB3D4_7784_8696_41D6_8307BE93D0AA_mobile.label = INFORMES
+Button_E230047E_FEBC_6808_41EB_2C34247C9C98.pressedLabel = Inserdt Text
+Button_E231747F_FEBC_6807_41DE_F0790F7A779D.label = Lorem Ipsum
+Button_E230F47E_FEBC_6808_41E2_905EA15711C5.label = Lorem Ipsum
+Button_E230E47F_FEBC_6807_41E4_2390C6CF11C7.label = Lorem Ipsum
+Button_E233A47E_FEBC_6808_41D1_533A1BD34B4A.label = Lorem Ipsum
+Button_E230547E_FEBC_6808_41D7_1FCAF39A6DE6.label = Lorem Ipsum
+Button_E230447E_FEBC_6808_41EE_E3D8DC5D331C.pressedLabel = Lorem Ipsum
+Button_E230447E_FEBC_6808_41EE_E3D8DC5D331C.label = Lorem Ipsum
+Button_E230747E_FEBC_6808_41D5_A5A28213A7CB.label = Lorem Ipsum
+Button_E230647E_FEBC_6808_41DD_EC6629757F47.label = Lorem Ipsum
+Button_E230847F_FEBC_6807_41C9_DBC2F3EFB804.label = Lorem Ipsum
+Button_E230347E_FEBC_6808_41D5_6BE1843BB237.label = Lorem Ipsum
+Button_E230C47E_FEBC_6808_41DB_28352362AC78.label = Lorem Ipsum
+Button_E230F47E_FEBC_6808_41B7_F2786E207ACA.label = Lorem Ipsum
+Button_E230E47E_FEBC_6808_41D0_F87B20033E97.label = Lorem Ipsum
+Button_E231147F_FEBC_6807_41C9_07A3999249B3.label = Lorem Ipsum
+Button_E230547E_FEBC_6808_41E1_80ABB9421AB1.label = Lorem Ipsum
+Button_E230447F_FEBC_6807_41D0_785FF1373625.label = Lorem Ipsum
+Button_E230747F_FEBC_6807_41CB_037FFDAF39FD.pressedLabel = Lorem Ipsum
+Button_E230747F_FEBC_6807_41CB_037FFDAF39FD.label = Lorem Ipsum
+Button_E230147F_FEBC_6807_41DB_FB5D30EB4395.label = Lorem Ipsum
+Button_E230047F_FEBC_6807_41D3_7700DBEAC267.label = Lorem Ipsum
+Button_E231247F_FEBC_6807_41CC_F5A8894869FF.label = Lorem Ipsum
+Button_E230D47F_FEBC_6807_41E7_0010478911F0.label = Lorem Ipsum
+Button_E230E47F_FEBC_6807_41BB_107A7B4407B9.label = Lorem Ipsum
+Button_E230947F_FEBC_6807_41E8_DDC997F2903D.label = Lorem Ipsum
+Button_E230847F_FEBC_6807_41EE_6881F1D6D813.label = Lorem Ipsum
+Button_E231347F_FEBC_6807_41EE_6E1C9F112970.label = Lorem Ipsum
+Button_E2316480_FEBC_68F9_41C2_7BC95DA0A782.label = Lorem Ipsum
+Button_E231647F_FEBC_6807_41D1_E4E4C23E8EE6.label = Lorem Ipsum
+Button_E230047F_FEBC_6807_41ED_C37345E2B56E.pressedLabel = Lorem Ipsum
+Button_E230047F_FEBC_6807_41ED_C37345E2B56E.label = Lorem Ipsum
+Button_E230247F_FEBC_6807_41D5_102439807EC4.label = Lorem Ipsum
+Button_E230D47F_FEBC_6807_41D0_60A0B4E3622D.label = Lorem Ipsum
+Button_E230D47F_FEBC_6807_41E9_34E5D77F04EA.label = Lorem Ipsum
+Button_E230F47F_FEBC_6807_41DB_31EFC8B3A41D.label = Lorem Ipsum
+Button_E2317480_FEBC_68F9_41D0_FDEC4D25A586.label = Lorem Ipsum
+Button_E2315480_FEBC_68F9_41E4_18D64528DD58.label = Lorem Ipsum
+Button_E230A47F_FEBC_6807_41ED_512AFDD8C61B.label = Lorem Ipsum
+Button_E230E47F_FEBC_6807_41D0_1CA41A7AFA5E.label = Lorem Ipsum
+Button_E230A480_FEBC_68F9_41E9_EC1F07A135C9.label = Lorem Ipsum
+Button_E231F480_FEBC_68F9_41EA_5301E2662BF6.label = Lorem Ipsum
+Button_E231247F_FEBC_6807_41CC_F5A8894869FF.pressedLabel = Lorem Ipsum
+Button_E230847F_FEBC_6807_41E4_DC662DDFB2CE.label = Lorem Ipsum
+Button_E230947F_FEBC_6807_41D7_C1ED10CC59D5.label = Lorem Ipsum
+Button_E230C47F_FEBC_6807_41D5_D3EE2511AC9A.label = Lorem Ipsum
+Button_E2319480_FEBC_68F9_41B9_B82E29ACD9E9.label = Lorem Ipsum
+Button_E230A47F_FEBC_6807_41D5_F857A4450D7A.label = Lorem Ipsum
+Button_E231C480_FEBC_68F9_41D5_2B25756BB022.label = Lorem Ipsum
+Button_E231F480_FEBC_68F9_41EA_5301E2662BF6.pressedLabel = Lorem Ipsum
+Button_E231E480_FEBC_68F9_41E7_604393F49290.label = Lorem Ipsum
+Button_E231347F_FEBC_6806_41EB_278F0D637804.label = Lorem Ipsum
+Button_E230047E_FEBC_6808_41DE_0103E9B1ABC6.label = Lorem ipsum
+Button_E230C47F_FEBC_6807_41DA_9A2242590EA6.label = Lorem ipsum
+Button_E230247F_FEBC_6807_41D5_E704DD5C3A76.label = Lorem ipsum
+Button_E230F47F_FEBC_6807_41E8_773F35AB961E.label = Lorem ipsum
+Button_E230B480_FEBC_68F9_41D3_85613D7FEFFF.label = Lorem ipsum
+Button_E230447E_FEBC_6808_41DC_23FD92FB8DCB.pressedLabel = Reception
+Button_E230547E_FEBC_6808_41E6_C95C2F7A1C2E.label = TOUR 360° >
+Button_BB3E9209_0685_E80B_4189_4FAE0BE6DFA5.label = Tour 360°
+Button_E230047E_FEBC_6808_41EB_2C34247C9C98.label = UBICACIÓN >
+Button_BB3EB209_0685_E80B_4180_4EAC4A94FD69.label = Ubicación
+Button_E230247E_FEBC_6808_41DB_A620454E79CD.label = VIDEOS >
+Button_BB3EA209_0685_E80B_417D_D5379896F0E4.label = Videos
+Button_E233A47E_FEBC_6808_41E7_B48CAD6245D1.label = Vista Este-Oeste 1
+Button_E230547E_FEBC_6808_41E3_6B882C4337F3.label = Vista Este-Oeste 2
+Button_E230447E_FEBC_6808_41DC_23FD92FB8DCB.label = Vista Oeste-Este 1
+Button_E230647E_FEBC_6808_41E5_E436B86BB0F8.label = Vista Oeste-Este 2
+Button_221B5648_0C06_E5FD_4198_40C786948FF0.label = lorem ipsum
+
+### Etiqueta
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2.text = Corregidora, Querétaro
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text = Corregidora, Querétaro
+Label_0DD14F09_1744_0507_41AA_D8475423214A.text = Espectacular blv metropolitano no 1864
+Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = Espectacular blv metropolitano no 1864
+Label_62AE01B5_5256_3F4C_41CB_C19B5A63AE0C_mobile.text = Iniciar Tour 360°
+Label_62AE01B5_5256_3F4C_41CB_C19B5A63AE0C.text = Iniciar Tour 360°
+Label_639764D4_526A_06CC_41BB_700885E6B5BB.text = Tour Creado por  Inmersia360°
+Label_639764D4_526A_06CC_41BB_700885E6B5BB_mobile.text = Tour Creado por  Inmersia360°
+Label_77B5B7C7_522E_02CC_41D3_71CA6851ED5D.text = inmersia360.com
+Label_77B5B7C7_522E_02CC_41D3_71CA6851ED5D_mobile.text = inmersia360.com
+
+### Imágen
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_es.jpg
+Image_700C1BE6_5236_02CC_41BA_3F82017C5994.url = skin/Image_700C1BE6_5236_02CC_41BA_3F82017C5994_es.png
+Image_700C1BE6_5236_02CC_41BA_3F82017C5994_mobile.url = skin/Image_700C1BE6_5236_02CC_41BA_3F82017C5994_mobile_es.png
+Image_70B20318_5236_0344_41D2_27098EEBF6A2.url = skin/Image_70B20318_5236_0344_41D2_27098EEBF6A2_es.png
+Image_70B20318_5236_0344_41D2_27098EEBF6A2_mobile.url = skin/Image_70B20318_5236_0344_41D2_27098EEBF6A2_mobile_es.png
+Image_990F4A3A_FD84_3809_41E0_A4CD813406F8.url = skin/Image_990F4A3A_FD84_3809_41E0_A4CD813406F8_es.jpg
+Image_BB3E7209_0685_E80B_4178_006323A0B258.url = skin/Image_BB3E7209_0685_E80B_4178_006323A0B258_es.png
+Image_E233947E_FEBC_6808_41D1_23DC420506F4.url = skin/Image_E233947E_FEBC_6808_41D1_23DC420506F4_es.jpg
+
+### Texto Multilínea
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.5099999999999993vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.51vmin;font-family:'Bebas Neue Bold';"> </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.967213114754098vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.97vmin;">AdCity Espectaculares.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.97vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.967213114754098vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.97vmin;">Somos la empresa #1 en Querétaro en anuncios espectaculares, encuentra con nosotros los mejores puntos en Querétaro, Celaya y San Luis Potosi</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.97vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.967213114754098vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.97vmin;">AdCity Digital</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.97vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.967213114754098vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.97vmin;">Desarrollamos ideas que mejoren tu posicionamiento en redes sociales y motores de búsqueda, en 2015 creamos smart screen: pantallas multitouch en punto de venta.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.97vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.967213114754098vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.97vmin;">Casa Matriz</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.967213114754098vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.97vmin;">Av. 5 De Febrero No. 1351 Edificio Robledo Pb 1, Zona Industrial Benito Juarez</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.967213114754098vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.97vmin;">Querétaro; Querétaro; Código Postal: 76120</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.97vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.967213114754098vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.97vmin;">Tels. 442 199 0461</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.967213114754098vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.97vmin;">contacto@adcity.com.mx</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.5099999999999993vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.51vmin;font-family:'Bebas Neue Bold';"> </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.33vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.333333333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:3.33vmin;">AdCity Espectaculares.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.33vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.333333333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:3.33vmin;">Somos la empresa #1 en Querétaro en anuncios espectaculares, encuentra con nosotros los mejores puntos en Querétaro, Celaya y San Luis Potosi</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.33vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.333333333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:3.33vmin;">AdCity Digital</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.33vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.333333333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:3.33vmin;">Desarrollamos ideas que mejoren tu posicionamiento en redes sociales y motores de búsqueda, en 2015 creamos smart screen: pantallas multitouch en punto de venta.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.33vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.333333333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:3.33vmin;">Casa Matriz</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.333333333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:3.33vmin;">Av. 5 De Febrero No. 1351 Edificio Robledo Pb 1, Zona Industrial Benito Juarez</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.333333333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:3.33vmin;">Querétaro; Querétaro; Código Postal: 76120</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.33vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.333333333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:3.33vmin;">Tels. 442 199 0461</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.333333333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:3.33vmin;">contacto@adcity.com.mx</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.759999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.67vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">Ubicación</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:3.39vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.39vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">corregidora</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.39vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.6460859977949283vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.65vmin;font-family:'Bebas Neue Bold';">Blvd Metopolitano no.1864</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.4200000000000006vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;">.</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.759999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:10.555555555555555vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.56vmin;font-family:'Bebas Neue Bold';">Ubicación</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.555555555555555vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.56vmin;font-family:'Bebas Neue Bold';">corregidora</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.722222222222221vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vmin;font-family:'Bebas Neue Bold';">Blvd Metopolitano no.1864</SPAN></SPAN></DIV></div>
+HTMLText_E233A47E_FEBC_6808_4160_FDA48E6F2F54.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = ESPECTACULAR 1A AD CITY
+
+## Ventana
+
+### Cuerpo
+htmlText_B0F24198_FD84_6809_41E1_A753CC78D5B2.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">http://www.adcity.com.mx</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Tel: 44.21.99.04.61</SPAN></DIV></BODY></HTML></div>
